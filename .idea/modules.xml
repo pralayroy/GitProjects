@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/pythonLocust.iml" filepath="$PROJECT_DIR$/.idea/pythonLocust.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CalculateNoOfDays.iml" filepath="$PROJECT_DIR$/.idea/CalculateNoOfDays.iml" />
     </modules>
   </component>
 </project>
