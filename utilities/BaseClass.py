@@ -20,7 +20,7 @@ class Configuration:
 # Checking year is leaper or not
     def countLeaperYear(day):
         years = day.year
-        if day.month <= 1:
+        if day.month <= 2:
             years -= 1
         return int(years / 4) - int(years / 100) + int(years / 400)
 
