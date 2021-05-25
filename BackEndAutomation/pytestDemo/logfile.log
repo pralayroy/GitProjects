@@ -1,0 +1,9 @@
+
+
+2021-01-28 14:13:18,044: INFO: test_editProfile: Pralay
+2021-01-28 14:16:18,699: INFO: test_editProfile: Pralay
+2021-01-28 14:16:18,710: DEBUG: pytest_pyfunc_call: A debug statement executed
+2021-01-28 14:16:18,710: INFO: pytest_pyfunc_call: A info statement
+2021-01-28 14:16:18,710: ERROR: pytest_pyfunc_call: An error occured
+2021-01-28 14:16:18,710: WARNING: pytest_pyfunc_call: Something is in warning mode
+2021-01-28 14:16:18,710: CRITICAL: pytest_pyfunc_call: Critical issue
